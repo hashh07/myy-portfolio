@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://www.linkedin.com/in/hasheer-peerzade-022129185/"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/hashh07"
+        },
+        {
+            "network" : "email",
+            "href": "mailto:hashpofficial@gmail.com"
+        }
+    ]
+}
